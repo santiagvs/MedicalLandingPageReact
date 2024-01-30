@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+body {
+  background-color: #F8F9FE;
+}
+
 .custom-container {
   width: min(1270px, 90%);
   margin-inline: auto;
